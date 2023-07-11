@@ -1,0 +1,2 @@
+## The shared bike linear regression modeling
+The assingment is to come up with a model capturing the independent variable driving the renting of the shared bike. The company wants to reposition itself to overcome the threat posed by Covid. The management will use the analysis to come up with new strategy to revive the company fortune.
